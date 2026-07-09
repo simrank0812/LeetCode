@@ -43,9 +43,9 @@ Find if Array Can Be Sorted
 [11/7/26]
 Divide an Array Into Subarrays 
 [12/7/26]
-Number of Substrings Containing All 
+Number of Substrings Containing All
 [13/7/26]
 Prefix and Suffix Search
 [14/7/26]
-Find Smallest Letter Greater Than Targ
+Find Smallest Letter Greater Than Target
 
