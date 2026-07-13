@@ -47,5 +47,5 @@ Number of Substrings Containing All
 [13/7/26]
 Prefix and Suffix Search
 [14/7/26]
-Find Smallest Letter Greater Than Target 
+Find Smallest Letter Greater Than Target
 
