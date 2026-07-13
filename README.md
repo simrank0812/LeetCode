@@ -13,7 +13,7 @@ Trionic Array I
 [27/6/26]
 Find a Safe Walk Through a Grid
 [28/6/26]
-Minimum Number of Pushes to Type 
+Minimum Number of Pushes to Type
 [29/6/26]
 Divide an Array Into Subarrays
 
