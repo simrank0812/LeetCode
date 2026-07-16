@@ -1,4 +1,4 @@
-# LeetCode #
+# LeetCode # coding
 --JUNE--
 [22/6/26]
 Minimum Score of a Path Between Two Cities
